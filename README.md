@@ -1,9 +1,9 @@
 Amazon-Text-Classification
 
 A team project comprising:
-Eram Khan
-Jeet Sanghvi
-Pooja Jaganade
+Eram Khan,
+Jeet Sanghvi,
+Pooja Jaganade and
 Prabhnoor Kahlon
 
 Introduction
