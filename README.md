@@ -1,6 +1,6 @@
 <h1>Amazon-Text-Classification</h1>
 
-<h2>A team project comprising:</h2>
+A team project comprising:
 Eram Khan,
 Jeet Sanghvi,
 Pooja Jaganade and
